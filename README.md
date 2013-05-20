@@ -1,6 +1,6 @@
 # SEOChecklist
 
-TODO: Write a gem description
+There was no such gem for Ruby on Rails where as there are plenty for wordpress, Drupal and similar platforms. SEO Checklist for Ruby on Rails shows you a simple checklist of TODO items like making changes to the app as well as installing some gems to make your rails website more search engine friendly. 
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just enable it
 
 ## Contributing
 
